@@ -1,0 +1,10 @@
+apple
+pear
+watermelon
+melon
+orange
+banana
+cabbage
+lemon
+carrot
+potato

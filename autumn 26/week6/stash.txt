@@ -1,0 +1,6 @@
+apple
+banana
+cabbage
+lemon
+carrot
+potato
